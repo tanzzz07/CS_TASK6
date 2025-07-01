@@ -84,7 +84,7 @@ Improved understanding of password complexity, security risks from weak password
 ## 👨‍💻 Author
 
 **Tanmay Pradhan**  
-Cyber Security Intern | RISE Program | MSME, Govt. of India
+Cyber Security Intern |ELEVATE LABS|
 
 ---
 
